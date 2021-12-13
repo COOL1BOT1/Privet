@@ -1,5 +1,5 @@
 {
-  "name": "Pranav Ser",
+  "name": "",
   "version": "1.0.8",
   "description": "A whatsapp User bot",
   "main": "./whatsAsena/bot.js",
@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pranavsankarms/pranav.git"
+    "url": "git+https://github.com/COOL1BOT1/Privet.git"
   },
   "keywords": [
     "whatsapp",
     "whatsapp bot",
     "user bot"
   ],
-  "author": "Pranav Ser",
+  "author": "IMASH",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/pranavsankarms/pranav/issues"
+    "url": "https://github.com/COOL1BOT1/Privet/issues"
   },
-  "homepage": "https://github.com/pranavsankarms/pranav#readme",
+  "homepage": "https://github.com/COOL1BOT1/Privet#readme",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.2",
     "axios": "^0.21.1",
